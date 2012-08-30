@@ -1,20 +1,23 @@
 === Plugin Name ===
 Contributors: stian4000
 Donate link: 
-Tags: email-marketing, subscribers, makenewsmail
+Tags: email-marketing, subscribers, makenewsmail, email, marketing, newsletter, plugin, signup, widget
 Requires at least: 3.0.0
-Tested up to: 3.0
-Stable tag: 1.0
+Tested up to: 3.4.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The plugin is an extension of the makenewsmail email marketing app. It generates a widget where users can sign up on a mailinglist.
-
+The Makenewsmail plugin is an extension of the Makenewsmail email marketing app. It adds a signup form for your Makenewsmail list.
 == Description ==
 
-The plugin interacts with the Makenewsmail api by getting all the clients e-mailinglists on activate (so the client can select which list the user will subscribe to) and by saving all subscribers into the Makenewsmail system.
+The plugin interacts with the Makenewsmail api by getting all your subscriberlists, and by saving all subscribers into the Makenewsmail system.
 
-Options fields are form extensions (more fields) and some predefined skins.
+Makenewsmail is free. [Makenewsmail](http://www.makenewsmail.com/ "We encourage you to try it out!")
+
+Gather more information about your users by including optional fields.
+
+The Makenewsmail signup form also comes with some predefined skins!
 
 == Installation ==
 
@@ -22,11 +25,13 @@ This section describes how to install the plugin and get it working.
 
 e.g.
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload Makenewsmail to the `/wp-content/plugins/` directory or simply download it from wordpress.
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Go to Settings > Makenewsmail and enter your email and API-key
-1. Open widgets section and drag it into your prefered widget area
-1. Choose mailinglist, field options and skin
+1. Go to Settings > Makenewsmail and enter your email and API-key (look under settings in your Makenewsmail account)
+1. Open widgets section and drag it into your preferred widget area
+1. Select target subscriberlist 
+1. Include optional fields to gather more information about your users
+1. Select Signup form skin or do it yourself (css class of makenewsmail).
 
 == Changelog ==
 
