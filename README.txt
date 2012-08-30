@@ -8,7 +8,7 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Makenewsmail plugin is an extension of the Makenewsmail email marketing app. It adds a signup form for your Makenewsmail list.
+The Makenewsmail plugin is an extension of the Makenewsmail email marketing app. It adds a signup form for your Makenewsmail subscriberslists.
 == Description ==
 
 The plugin interacts with the Makenewsmail api by getting all your subscriberlists, and by saving all subscribers into the Makenewsmail system.
