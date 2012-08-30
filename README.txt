@@ -13,7 +13,7 @@ The Makenewsmail plugin is an extension of the Makenewsmail email marketing app.
 
 The plugin interacts with the Makenewsmail api by getting all your subscriberlists, and by saving all subscribers into the Makenewsmail system.
 
-Makenewsmail is free. [Makenewsmail](http://www.makenewsmail.com/ "We encourage you to try it out!")
+Makenewsmail is free. [We encourage you to try it out!](http://www.makenewsmail.com/ "We encourage you to try it out!")
 
 Gather more information about your users by including optional fields.
 
