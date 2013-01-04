@@ -214,7 +214,7 @@
 				
 				$make_title = apply_filters('widget_title', $make_title);
 				$make_description = apply_filters('widget_description', $make_description);
-				$path = plugins_url('Makenewsmail/');
+				$path = plugins_url('makenewsmail-widget/');
 				
 				echo $before_widget;
 					echo "<div class='{$make_skin}'>";
