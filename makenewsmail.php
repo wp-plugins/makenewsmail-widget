@@ -3,7 +3,7 @@
 Plugin Name: Makenewsmail widget
 Plugin URI: http://www.makenewsmail.no/wordpressplugin
 Description: Adds a signup form for a Makenewsmail mailing list to your WordPress site.
-Version: 1.0.1
+Version: 1.0.2
 Author: Stian B Pedersen
 Author URI: http://www.makenewsmail.no
 */

@@ -3,8 +3,8 @@ Contributors: stian4000
 Donate link: 
 Tags: email-marketing, subscribers, makenewsmail, email, marketing, newsletter, plugin, signup, widget
 Requires at least: 3.0.0
-Tested up to: 3.4.1
-Stable tag: 1.0.1
+Tested up to: 3.5
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,9 +35,11 @@ e.g.
 
 == Changelog ==
 
+= 1.0.2 = Fixed bug in path to ajax handler
 = 1.0 = First version
 
 == Upgrade Notice ==
 
+= 1.0.2 = Fixed bug in path to ajax handler
 = 1.0 = First version
 
